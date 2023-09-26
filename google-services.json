@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140826057292",
+    "project_id": "livraison-colis-888de",
+    "storage_bucket": "livraison-colis-888de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140826057292:android:2af3abefd14c12eb8eb2e9",
+        "android_client_info": {
+          "package_name": "com.owl.hackinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140826057292-8vkmb2h4knj2vhnhubsdk682b24beqg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.owl.hackinfo",
+            "certificate_hash": "09c61373a476dbc7f354f1fed6ad56c01960180c"
+          }
+        },
+        {
+          "client_id": "140826057292-rnf1s6a67o691tdk50ovqa8uo5tnbe7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNFQQ42a0hZKW_H_00vZ2fQz3kR3e0xgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140826057292-hsemnejqh5spit6huek4jnpq6la6l79l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
